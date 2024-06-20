@@ -7,7 +7,7 @@ A GUI application for a restaurant management system, built using Python and Tki
 - Add and remove items from the order
 - Generate a random order ID
 - Calculate the total cost of the order
-- Generate a receipt
+- Generates a receipt after each order (TXT file)
 
 ## Demonstration
 
